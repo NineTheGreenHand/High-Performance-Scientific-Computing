@@ -1,0 +1,829 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 24 0 R /PageMode /UseNone /Pages 19 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20210518112818+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210518112818+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Questions) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 7 /First 12 0 R /Last 18 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 729.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Norm)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 603.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Sparse Matrix-Vector Product)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 729.0236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Sparse Matrix Dense Matrix Product \(AMATH583 Only\))
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 630.0236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (PageRank Reprise)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 375.0236 0 ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (Load Balanced Partitioning with OpenMP)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 204.0236 0 ] /Next 18 0 R /Parent 11 0 R /Prev 16 0 R /Title (OpenMP SIMD)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 669.0236 0 ] /Parent 11 0 R /Prev 17 0 R /Title (To-Do 6)
+>>
+endobj
+19 0 obj
+<<
+/Count 4 /Kids [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+20 0 obj
+<<
+/Length 7528
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 186.0449 0 Td (Questions) Tj T* -186.0449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Norm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .329318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Question 1: Look through the code for ) Tj /F3 10 Tf (run\(\)) Tj /F1 10 Tf ( in ) Tj /F3 10 Tf (norm_utils.hpp) Tj /F1 10 Tf (. How are we setting the number) Tj T* 0 Tw (of threads for OpenMP to use?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.032209 Tw 12 TL /F1 10 Tf 0 0 0 rg (Answer: In the ) Tj /F3 10 Tf (run\(\)) Tj /F1 10 Tf ( function, we have a for loop which defines the number of threads we will iterate.) Tj T* 0 Tw .422093 Tw (Also, there is a if statement to check if _OPENMP is defined. If _OPENMP is defined, that means we are) Tj T* 0 Tw .70229 Tw (using OpenMP, then the program will call omp_set_num_threads\(nthreads\) to set the number of threads) Tj T* 0 Tw (for OpenMP to use.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.019983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Question 2: Which version of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf ( provides the best parallel performance? How do the results) Tj T* 0 Tw (compare to the parallelized versions of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf ( from ps5?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .065366 Tw (Answer: Overall, my norm_block_reduction gives me the best parallel performance for most problem sizes) Tj T* 0 Tw 4.720751 Tw (and number of threads. To be more detailed, compared with the sequential performance, my) Tj T* 0 Tw 1.311984 Tw (norm_block_reduction with 1 thread is about 0.99 times speedup in the performance; with 2 threads is) Tj T* 0 Tw 2.86061 Tw (about 1.93 times speedup in the performance; with 4 threads is about 3.48 times speedup in the) Tj T* 0 Tw 1.402339 Tw (performance; with 8 threads it can even reach about 8.02 times speedup in the performance with N =) Tj T* 0 Tw .849269 Tw (1048576 \(sequential reading is 2.61191 GFlops/s, my reading is 20.9497 GFlops/s.\). With 8 threads, on) Tj T* 0 Tw 1.035984 Tw (average it's about 4.07 times speedup in the performance compared with the sequential reading for my) Tj T* 0 Tw (norm_block_reduction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+q
+BT 1 0 0 1 0 98 Tm 1.364985 Tw 12 TL /F1 10 Tf 0 0 0 rg (Compared with the several parallelized versions of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf ( from ps5: for ps5, my pnorm and fnorm both) Tj T* 0 Tw 1.238651 Tw (reaches about 2 times speedup in the performance for 8 threads. For my norm_block_reduction with 8) Tj T* 0 Tw 1.483516 Tw (threads, on average we reach about 4 times speedup in the performance \(with peak of about 8 times) Tj T* 0 Tw .76248 Tw (speedup\). So, with OpenMP, we are getting some significant performance improvement especially when) Tj T* 0 Tw .60686 Tw (we are using more threads. For cnorm from ps5, we ended up getting lower performance compared with) Tj T* 0 Tw 6.303828 Tw (the sequential performance, which also holds here when we are using OpenMP. For my) Tj T* 0 Tw -0.122749 Tw (norm_cyclic_critical, I am getting lower performance even for multi-threads. For my norm_cyclic_reduction,) Tj T* 0 Tw 1.163984 Tw (I am getting some performance speedup but not that significant compared with my other functions. For) Tj T* 0 Tw (rnorm from ps5, I am from Amath 483 so I did not do that one which I cannot make a comparsion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .750697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Question 3: Which version of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf ( provides the best parallel performance for larger problems \(i.e.,) Tj T* 0 Tw .439988 Tw (problems at the top end of the default sizes in the drivers or larger\)? How do the results compare to) Tj T* 0 Tw (the parallelized versions of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf ( from ps5?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 4.786905 Tw (Answer: For N = 33554432 my norm_payfor has a slighly better performance compared with) Tj T* 0 Tw 2.24248 Tw (norm_block_reduction. For norm_block_reduction, with 1 threads is about 0.99 times speedup in the) Tj T* 0 Tw .241163 Tw (performance; with 2 threads is about 1.93 times speedup in the performance; with 4 threads is about 3.48) Tj T* 0 Tw 1.021235 Tw (times speedup in the performance; with 8 threads is about 4.07 times speedup in the performance. For) Tj T* 0 Tw .241163 Tw (norm_payfor, with 1 threads is about 0.99 times speedup in the performance; with 2 threads is about 1.95) Tj T* 0 Tw .307045 Tw (times speedup in the performance; with 4 threads is about 3.54 times speedup in the performance; with 8) Tj T* 0 Tw .986235 Tw (threads is about 4.13 times speedup in the performance. So, we see that my norm_payfor provides the) Tj T* 0 Tw (best parallel performance foor larger problems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+q
+BT 1 0 0 1 0 74 Tm -0.03168 Tw 12 TL /F1 10 Tf 0 0 0 rg (Compared with ps5: For my pnorm and fnorm with N = 33554432, my performance for both are very close.) Tj T* 0 Tw .205777 Tw (For 1 thread, it's about 0.96 times speedup; for 2 threads, it's about 1.61 times speedup; for 4 threads, it's) Tj T* 0 Tw .585868 Tw (about 1.94 times speedup; for 8 threads, it's also about 1.97 times speedup. We see that compared with) Tj T* 0 Tw 3.304597 Tw (ps5 versions of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf (, my norm_payfor with OpenMP gets a better performance improvement for) Tj T* 0 Tw 1.02311 Tw (multi-threads \(e.g. 2, 4, 8 threads\). Since cnorm gets lower performance, there is not much meaning to) Tj T* 0 Tw -0.020014 Tw (make a comparsion in here because the point of those assignnments are to find methods that can improve) Tj T* 0 Tw (the performance, not to lower it. Again, I am from Amath 483 so I did not do rnorm.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .909983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Question 4: Which version of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf ( provides the best parallel performance for small problems \(i.e.,) Tj T* 0 Tw .372765 Tw (problems smller than the low end of the default sizes in the drivers\)? How do the results compare to) Tj T* 0 Tw (the parallelized versions of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf ( from ps5?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+Q
+ 
+endstream
+endobj
+21 0 obj
+<<
+/Length 7331
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .157126 Tw (Answer: For N = 1048576 and lower, my norm_block_reduction provides the best parallel performance for) Tj T* 0 Tw .661098 Tw (small problems. To be more detailed, with 1 thread is about 0.98 times speedup; with 2 threads is about) Tj T* 0 Tw 1.908221 Tw (1.83 times speedup; with 4 threads is about 3.53 times speedup; with 8 threads is about 8.02 times) Tj T* 0 Tw (speedup.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 86 Tm .72811 Tw 12 TL /F1 10 Tf 0 0 0 rg (Compared to ps5: For my pnorm and fnorm with N = 1048576 and lower, the performance improvement) Tj T* 0 Tw -0.127012 Tw (are very similar for the two versions. With 1 thread is about 0.64 times speedup; with 2 threads is about 1.1) Tj T* 0 Tw .632927 Tw (times speedup; with 4 threads is about 1.52 times speedup; with 8 threads is about 0.89 times speedup.) Tj T* 0 Tw 2.789983 Tw (We see that compared with ps5 versions of ) Tj /F3 10 Tf (norm) Tj /F1 10 Tf (, my norm_block_reduction with OpenMP gets a) Tj T* 0 Tw .016651 Tw (significant performance improvement for 1, 2, 4 and 8 threads. Since cnorm gets lower performance, there) Tj T* 0 Tw .629431 Tw (is not much meaning to make a comparsion in here because the point of those assignnments are to find) Tj T* 0 Tw .927988 Tw (methods that can improve the performance, not to lower it. Again, I am from Amath 483 so I did not do) Tj T* 0 Tw (rnorm.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Sparse Matrix-Vector Product) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Question 5: How does ) Tj /F3 10 Tf (pmatvec.cpp) Tj /F1 10 Tf ( set the number of OpenMP threads to use?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .099988 Tw (Answer: In the main function, we have a for loop which defines the number of threads we will iterate. Also,) Tj T* 0 Tw .334198 Tw (there is a if statement to check if _OPENMP is defined. If _OPENMP is defined, that means we are using) Tj T* 0 Tw 1.643059 Tw (OpenMP, then the program will call omp_set_num_threads\(nthreads\) to set the number of threads for) Tj T* 0 Tw (OpenMP to use.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Question 6: \(For discussion on Piazza.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 2.699398 Tw 12 TL /F1 10 Tf 0 0 0 rg (What characteristics of a matrix would make it more or less likely to exhibit an error if improperly) Tj T* 0 Tw 4.110976 Tw (parallelized? Meaning, if, say, you parallelized ) Tj /F3 10 Tf (CSCMatrix::matvec) Tj /F1 10 Tf ( with just basic columnwise) Tj T* 0 Tw 2.014692 Tw (partitioning -- there would be potential races with the same locations in ) Tj /F3 10 Tf (y) Tj /F1 10 Tf ( being read and written by) Tj T* 0 Tw .137765 Tw (multiple threads. But what characteristics of the matrix give rise to that kind of problem? Are there ways to) Tj T* 0 Tw (maybe work around / fix that if we knew some things in advance about the \(sparse\) matrix?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.43284 Tw (Question 7: Which methods did you parallelize? What directives did you use? How much parallel) Tj T* 0 Tw (speedup did you see for 1, 2, 4, and 8 threads?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 170 Tm /F1 10 Tf 12 TL 1.90229 Tw (Answer: I parallelized two functions in CSRMatrix.hpp: matvec\(\) and t_matvec\(\); and two functions in) Tj T* 0 Tw 2.456905 Tw (CSCMatrix.hpp: matvec\(\) and t_matvec\(\). For the four functions, I have used the OpenMP directive) Tj T* 0 Tw 1.339983 Tw ("#pragma omp parallel for schedule\(static\)". For CSR matvec\(\) and CSC t_matvec\(\) I have placed this) Tj T* 0 Tw .971098 Tw (directive on the outer for loop, and for CSR t_matvec\(\) and CSC matvec\(\) I placed this direction on the) Tj T* 0 Tw .290542 Tw (inner for loop. I successfully passed all of the tests provided in here and in Gradescope. However, when I) Tj T* 0 Tw 1.091318 Tw (ran ./pmatvec.exe, the execution time was very long, and I only got performance improvement for CSR) Tj T* 0 Tw .577318 Tw (matvec\(\) and CSC t_matvec\(\). My CSR t_matvec\(\) and CSC matvec\(\) have very low performances. So I) Tj T* 0 Tw 1.171412 Tw (commented out the OpenMP directive for my CSR t_matvec\(\) and CSC matvec\(\) and ran pmatvec.exe) Tj T* 0 Tw 1.646235 Tw (again but the result did not show much difference. My submission of the code portion to Gradescope) Tj T* 0 Tw 2.16936 Tw (contains the commented code, I just included it there for grading. Also, for CSR matvec\(\) and CSC) Tj T* 0 Tw -0.070017 Tw (t_matvec\(\), we can also parallelize it with the directive "#pragma omp parallel for reduction\(+:temp\)" where) Tj T* 0 Tw .20237 Tw (the parameter "temp" is a double that I hoist for y\(i\), I also left this directive commented in the code just to) Tj T* 0 Tw .504985 Tw (show you for grading. I cannot parallelize my CSR t_matvec\(\) and CSC matvec\(\) with this directive since) Tj T* 0 Tw .167765 Tw (we cannot hoist the y variable out for those two functions. The two different approach give me very similar) Tj T* 0 Tw (performance improvement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .316651 Tw (To be detailed, for my CSR matvec\(\) with performance improvement \(compared with COO\): with 1 thread) Tj T* 0 Tw .301488 Tw (is about 1.35 times speedup on average \(peak is 1.41 times speedup at N = 128\); with 2 threads is about) Tj T* 0 Tw 1.136303 Tw (2.13 times speedup on average \(peak is 2.69 times speedup at N = 128\); with 4 threads is about 3.24) Tj T* 0 Tw .903145 Tw (times speedup on average \(peak is 5.46 times speedup at N = 256\); with 8 threads is about 4.38 times) Tj T* 0 Tw (speedup on average \(peak is 9.06 times speedup at N = 256\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.195697 Tw (To be detailed, for my CSC t_matvec\(\) with performance improvement \(compared with COO^T\): with 1) Tj T* 0 Tw .375777 Tw (thread is about 1.36 times speedup on average \(peak is 1.42 times speedup at N = 2048\); with 2 threads) Tj T* 0 Tw .301488 Tw (is about 2.54 times speedup on average \(peak is 3.17 times speedup at N = 256\); with 4 threads is about) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Length 6782
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.136303 Tw (2.96 times speedup on average \(peak is 3.28 times speedup at N = 128\); with 8 threads is about 3.93) Tj T* 0 Tw (times speedup on average \(peak is 7.47 times speedup at N = 256\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Sparse Matrix Dense Matrix Product \(AMATH583 Only\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.43284 Tw (Question 8: Which methods did you parallelize? What directives did you use? How much parallel) Tj T* 0 Tw .647209 Tw (speedup did you see for 1, 2, 4, and 8 threads? How does the parallel speedup compare to sparse) Tj T* 0 Tw (matrix by vector product?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Answer: I am from Amath 483.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (PageRank Reprise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.151412 Tw (Question 9: Describe any changes you made to pagerank.cpp to get parallel speedup. How much) Tj T* 0 Tw (parallel speedup did you get for 1, 2, 4, and 8 threads?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL .997674 Tw (Answer: I changed the "CSRMatrix A = read_csrmatrix\(input_file\)" in pagerank.cpp into "CSCMatrix A =) Tj T* 0 Tw 1.252485 Tw (read_cscmatrix\(input_file\)" to let it use CSC matrix instead. To be detailed: with 1 thread is about 0.97) Tj T* 0 Tw .307045 Tw (times speedup in the performance; with 2 threads is about 1.08 times speedup in the performance; with 4) Tj T* 0 Tw -0.020013 Tw (threads is about 1.13 times speedup in the performance; with 8 threads is about 1.15 times speedup in the) Tj T* 0 Tw .093318 Tw (performance. We see that overall the performance improvement with our change from CSR matrix to CSC) Tj T* 0 Tw 1.277984 Tw (matrix was not very large which is reasonable since we have parallelized both our CSRMatrix.hpp and) Tj T* 0 Tw .43881 Tw (CSCMatrix.hpp with OpenMP for To-Do 1 and Question 7. In question 7, we see that the two parallelized) Tj T* 0 Tw 1.340888 Tw (functions for CSRMatrix.hpp and CSCMatrix.hpp achieved a very similar performance improvement, so) Tj T* 0 Tw (the result we got in here is rational.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.567674 Tw (Question 10: \(EC\) Which functions did you parallelize? How much additional speedup did you) Tj T* 0 Tw (achieve?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .229398 Tw (Answer: In the last two for loop in pagerank.cpp, I added the OpenMP directive "#pragma omp parallel for) Tj T* 0 Tw .104985 Tw (schedule\(static\)" on them. Unfortunately, there is not much of difference by adding this directive to the two) Tj T* 0 Tw (for loops. I did not get much additional speeedup.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Load Balanced Partitioning with OpenMP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .040697 Tw (Question 11: What scheduling options did you experiment with? Are there any choices for scheduling) Tj T* 0 Tw (that make an improvement in the parallel performance \(most importantly, scalability\) of pagerank?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .464985 Tw (Answer: I experiment with the options: static, dynamic, auto, and guide. Among those choices, I think the) Tj T* 0 Tw 1.346654 Tw (kind static works the best for the "schedule" clause. Since in our case, we want each thread does the) Tj T* 0 Tw .497984 Tw (same amount of work without interrupting each other \(avoiding race conditions\), so dynamic and guide is) Tj T* 0 Tw .068935 Tw (not the right choice because the work for each thread can be randomized. For auto, even that it can divide) Tj T* 0 Tw -0.046328 Tw (the problem into equal sized, it lacks the ability to define the chunk-size like the static does. With static and) Tj T* 0 Tw .210574 Tw (auto sometimes from my end, we are getting some performance improvement. I just want to point out that) Tj T* 0 Tw .012765 Tw (for the extra credit question, I also used the schedule clause with the static kind to improve performance in) Tj T* 0 Tw (pagerank.cpp.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (OpenMP SIMD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .557318 Tw (Question 12: Which function did you vectorize with OpenMP? How much speedup were you able to) Tj T* 0 Tw (obtain over the non-vectorized \(sequential\) version?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.552706 Tw (Answer: I vectorized my norm_block_reduction\(\) function with OpenMP by commenting my previous) Tj T* 0 Tw 2.324147 Tw (OpenMP directive "#pragma omp parallel reduction \(+:sum\)", and adding the new OpenMP directive) Tj T* 0 Tw .546457 Tw ("#pragma omp simd" right before the for loop. I also tried this with my norm_cyclic_reduction\(\), but I only) Tj T* 0 Tw (got performance improvement with my norm_block_reduction\(\) function.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+23 0 obj
+<<
+/Length 2490
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .125433 Tw (For my vectorized version of norm_block_reduction\(\) function, compared with the sequential performance:) Tj T* 0 Tw .165542 Tw (with 1 thread is about 1.94 times speedup in the performance; with 2 threads is about 1.95 times speedup) Tj T* 0 Tw -0.050013 Tw (in the performance; with 4 threads is about 1.95 times speedup in the performance; with 8 threads is about) Tj T* 0 Tw .07881 Tw (1.96 times speedup in the performance. We can see that overall, disregard how many thread we used, we) Tj T* 0 Tw .744597 Tw (got about 2 times speedup in the performance after vectorizing the norm_block_reduction\(\) function with) Tj T* 0 Tw 1.334985 Tw (OpenMP. Compared to our previous OpenMP directive with 4 or 8 threads, this method does not over) Tj T* 0 Tw (perform. But, a 2 times speedup is still a significant improvement in the performance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (To-Do 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (a.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The most important thing I learned from this assignment was?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .22311 Tw (Answer: To be able to apply OpenMP in parallelizing the program without actually changing a large chunk) Tj T* 0 Tw (of the original code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (b.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (One thing I am still not clear on is?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.090651 Tw (Answer: OpenMP is another form of thread that we used for ps5, but the performance improvement) Tj T* 0 Tw 2.175777 Tw (achieved by OpenMP is better than the thread we used for ps5. I am not clear why, are there any) Tj T* 0 Tw (difference between the two?) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+24 0 obj
+<<
+/Nums [ 0 25 0 R 1 26 0 R 2 27 0 R 3 28 0 R ]
+>>
+endobj
+25 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+26 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+27 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+28 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000448 00000 n 
+0000000653 00000 n 
+0000000858 00000 n 
+0000001063 00000 n 
+0000001268 00000 n 
+0000001373 00000 n 
+0000001640 00000 n 
+0000001714 00000 n 
+0000001819 00000 n 
+0000001961 00000 n 
+0000002127 00000 n 
+0000002257 00000 n 
+0000002409 00000 n 
+0000002534 00000 n 
+0000002642 00000 n 
+0000002720 00000 n 
+0000010300 00000 n 
+0000017683 00000 n 
+0000024517 00000 n 
+0000027059 00000 n 
+0000027127 00000 n 
+0000027161 00000 n 
+0000027195 00000 n 
+0000027229 00000 n 
+trailer
+<<
+/ID 
+[<5509c48cef51bad1425be6934224d97d><5509c48cef51bad1425be6934224d97d>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 29
+>>
+startxref
+27263
+%%EOF
