@@ -1,0 +1,39 @@
+1. What is the host name of the computer as reported by your linux environment? (You will need to find the right Linux command to execute for this. I suggest searching the web.)
+
+Answer: The host nname is: LAPTOP-FSMG0GF1
+
+2. How would you specify the name of an output file when you use the compiler if you wanted the executable to have a name other than a.out?
+
+Answer: The default output file name is a.out, we can change that by adding “-o outputfile" in the end when we use the compiler.
+For example in our case, if we want our output file to be named as "ps1.out", we can use the command "c++ -std=c++11 sin6pi.cpp -o ps1.out".
+This will create an output file named as "ps1.out".
+
+3. What happens if you type
+
+$ a.out
+instead of
+
+$ ./a.out
+to run your program? What is the difference (operationally) between the two statements?
+
+Answer: When we type “a.out”, it gives "a.out: command not found", and “./a.out" gives "Pass -7.34788e-16".
+Operationally, "./a.out", the "./" means we search "a.out" in our current working directory. Since in 
+the windows environment, there is no "a.out" command, so if we don't add "./" in front, we will get this 
+error message.  
+
+4. What does clang print when you run
+
+$ c++ --version
+(AL: note two dashes.)
+
+Answer: It gives:
+
+clang version 10.0.0-4ubuntu1 
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+
+5. In the example program, the i and N variables are said to be size_t. What is a size_t?
+
+Answer: size_t is the unsigned integer type of the result of the sizeof operator.
+Widely used when representing sizes and counts. 
