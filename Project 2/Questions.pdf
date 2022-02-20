@@ -1,0 +1,459 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Outlines 8 0 R /PageLabels 13 0 R /PageMode /UseNone /Pages 11 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author () /CreationDate (D:20210411150446+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210411150446+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (PS2 Questions) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /First 9 0 R /Last 10 0 R /Type /Outlines
+>>
+endobj
+9 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 695.0236 0 ] /Next 10 0 R /Parent 8 0 R /Title (Inner Product)
+>>
+endobj
+10 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 536.0236 0 ] /Parent 8 0 R /Prev 9 0 R /Title (Tensors)
+>>
+endobj
+11 0 obj
+<<
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
+endobj
+12 0 obj
+<<
+/Length 6693
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 164.3649 0 Td (PS2 Questions) Tj T* -164.3649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .676488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Add your answers to this file in plain text after each question. Leave a blank line between the text of the) Tj T* 0 Tw (question and the text of your answer and at least two lines between your answer and the next question.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 674.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Inner Product) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 89.48 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 170.28 0 48 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (How would you use ) Tj /F3 10 Tf (dot) Tj /F1 10 Tf ( to implement ) Tj /F3 10 Tf (two_norm) Tj /F1 10 Tf (?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+Q
+q
+1 0 0 1 62.69291 632.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 632.0236 cm
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+q
+.960784 .960784 .862745 rg
+n 45.84409 48 48 12 re f*
+.960784 .960784 .862745 rg
+n 20.44776 36 18 12 re f*
+.960784 .960784 .862745 rg
+n 371.9651 24 18 12 re f*
+.960784 .960784 .862745 rg
+n 345.0479 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 48 12 re f*
+BT 1 0 0 1 0 50 Tm .687045 Tw 12 TL /F1 10 Tf 0 0 0 rg (Since the ) Tj /F3 10 Tf (two_norm) Tj /F1 10 Tf ( is calculated by taking the square root of the sum of each vector element squared,) Tj T* 0 Tw .987765 Tw (and ) Tj /F3 10 Tf (dot) Tj /F1 10 Tf ( calculates the dot product of two vector. Since the sum of each vector element squared is the) Tj T* 0 Tw .701567 Tw (same concept as taking the dot product of two same vectors, so we can have the ) Tj /F3 10 Tf (dot) Tj /F1 10 Tf ( function take two) Tj T* 0 Tw .13237 Tw (exact x vectors, then we simply take square root of the result we get from the ) Tj /F3 10 Tf (dot) Tj /F1 10 Tf ( function, and that is the) Tj T* 0 Tw /F3 10 Tf (two_norm) Tj /F1 10 Tf ( we want to get.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+Q
+q
+1 0 0 1 62.69291 515.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tensors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.0236 cm
+Q
+q
+1 0 0 1 62.69291 503.0236 cm
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .239398 Tw (What is the formula that we would use for indexing if we wanted "slab-major" ordering? Hint: What is) Tj T* 0 Tw .110391 Tw (the size of a slab? It might be helpful to draw a picture of the data in 3D and see what the size is of a) Tj T* 0 Tw (slab.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+Q
+q
+1 0 0 1 62.69291 419.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.066303 Tw (We represent the position of an element in a 3 dimensional space as A\(i, j, k\). e.g. \(slab, row, column\)) Tj T* 0 Tw (Suppose we have L slabs, M rows, and N columns. The indexing formula is: [k + M * \(j + L * i\)].) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 413.0236 cm
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+Q
+q
+1 0 0 1 62.69291 371.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .789398 Tw (\(Extra credit.\) I claim that there are six distinct indexing formulas. Show that this claim is correct or) Tj T* 0 Tw (that it is incorrect.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 371.0236 cm
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Yes, this claim is correct.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Since for a 3D space, we can have the index \(i, j, k\) represent:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 311.0236 cm
+Q
+q
+1 0 0 1 62.69291 311.0236 cm
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(slab, row, column\) 2. \(slab, column, row\) 3. \(row, slab, column\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+Q
+q
+1 0 0 1 62.69291 293.0236 cm
+Q
+q
+1 0 0 1 62.69291 293.0236 cm
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(row, column, slab\) 5.\(column, slab, row\) 6. \(column, row, slab\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+Q
+q
+1 0 0 1 62.69291 263.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We can get the following indexing formulas corresponding with the six options we just listed:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 257.0236 cm
+Q
+q
+1 0 0 1 62.69291 257.0236 cm
+Q
+q
+1 0 0 1 62.69291 245.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([k + M * \(j + L * i\)] 2. [j + M * \(k + L * i\)] 3. [k + M * \(i + L * j\)]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 245.0236 cm
+Q
+q
+1 0 0 1 62.69291 239.0236 cm
+Q
+q
+1 0 0 1 62.69291 239.0236 cm
+Q
+q
+1 0 0 1 62.69291 227.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([j + M * \(i + L * k\)] 5. [i + M * \(k + L * j\)] 6. [i + M * \(j + L * k\)].) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 227.0236 cm
+Q
+ 
+endstream
+endobj
+13 0 obj
+<<
+/Nums [ 0 14 0 R ]
+>>
+endobj
+14 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000448 00000 n 
+0000000653 00000 n 
+0000000757 00000 n 
+0000001027 00000 n 
+0000001099 00000 n 
+0000001211 00000 n 
+0000001317 00000 n 
+0000001377 00000 n 
+0000008122 00000 n 
+0000008163 00000 n 
+trailer
+<<
+/ID 
+[<fd3a26d5095067dd2a3c5888b0f309b4><fd3a26d5095067dd2a3c5888b0f309b4>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 15
+>>
+startxref
+8197
+%%EOF
