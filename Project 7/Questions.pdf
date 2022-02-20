@@ -1,0 +1,695 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 120 /Length 48 /SMask 6 0 R 
+  /Subtype /Image /Type /XObject /Width 120
+>>
+stream
+Gb"0;0`_7S!5bE.WFlSlTE"rlzzzzzzzzz!!%PY!N#B2)#~>endstream
+endobj
+6 0 obj
+<<
+/BitsPerComponent 8 /ColorSpace /DeviceGray /Decode [ 0 1 ] /Filter [ /ASCII85Decode /FlateDecode ] /Height 120 /Length 39 
+  /Subtype /Image /Type /XObject /Width 120
+>>
+stream
+Gb"0;!=]#/!5bE':MgUI'EA+5zz!!)M#3'[HE~>endstream
+endobj
+7 0 obj
+<<
+/Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/FormXob.b6f77d4eeded7b432395304cf1a6ac36 5 0 R
+>>
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 24 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20210523171731+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210523171731+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Questions) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 8 /First 12 0 R /Last 19 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 729.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (hello_omp)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 522.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (norm)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 351.0236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (matvec)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 228.0236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (pagerank)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 105.0236 0 ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (cu_axpy)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 393.0236 0 ] /Next 18 0 R /Parent 11 0 R /Prev 16 0 R /Title (nvprof)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 306.0236 0 ] /Next 19 0 R /Parent 11 0 R /Prev 17 0 R /Title (Striding)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Parent 11 0 R /Prev 18 0 R /Title (norm_cuda)
+>>
+endobj
+20 0 obj
+<<
+/Count 3 /Kids [ 4 0 R 7 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+21 0 obj
+<<
+/Length 6267
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 186.0449 0 Td (Questions) Tj T* -186.0449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (hello_omp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .779984 Tw (Question 1: How many omp threads are reported as being available? Try increasing the number of) Tj T* 0 Tw .974985 Tw (cpus-per-task. Do you always get a corresponding number of omp threads? Is there a limit to how) Tj T* 0 Tw (many omp threads you can request?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.76784 Tw (Answer: With "srun --time 5:00 -A niac --cpus-per-task 2 ./ompi_info.exe", we have 2 omp threads) Tj T* 0 Tw .667633 Tw (available. When I try to increase the number of cpus-per-task, I can get a corresponding number of omp) Tj T* 0 Tw .735207 Tw (threads when the number I tried is less or equal to 40. There is a limit of 40 as the max number of omp) Tj T* 0 Tw .066488 Tw (threads I can request. When I try to increase the number of cpus-per-task over 40 \(e.g. 41\), I would get an) Tj T* 0 Tw (error.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.192126 Tw (Question 2: What is the reported hardware concurrency and available omp threads if you execute) Tj T* 0 Tw (ompi_info.exe on the login node?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.17748 Tw (Answer: The reported hardware concurrency and available omp threads by executing ompi_info.exe on) Tj T* 0 Tw (the login node is 40.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (norm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.076651 Tw (Question 3: What are the max Gflop/s reported when you run norm_parfor.exe with 8 cores? How) Tj T* 0 Tw 1.537045 Tw (much speedup is that over 1 core? How does that compare to what you had achieved with your) Tj T* 0 Tw (laptop?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .683318 Tw (Answer: The max Gflop/s reported when running norm_parfor.exe with 8 cores is 12.4028 Gflop/s with 8) Tj T* 0 Tw 1.165984 Tw (threads when N = 2097152. Compared with running norm_parfor.exe over 1 core, it's about 6.46 times) Tj T* 0 Tw .078221 Tw (speedup. When I did ps6 and ran norm_parfor.exe on my own laptop, my max Gflop/s reported is 19.9126) Tj T* 0 Tw -0.031591 Tw (Gflop/s with 8 threads when N = 1048576 \(my laptop also has 8 cores\). So for my laptop, this performance) Tj T* 0 Tw 2.200651 Tw (compared with the 1 core performance achieved about 7.54 times speedup. We see that my laptop) Tj T* 0 Tw 1.644651 Tw (achieved better speedup in the performance compared to the performance when we run on the Hyak) Tj T* 0 Tw (cluster.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (matvec) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .174985 Tw (Question 4: What are the max Gflop/s reported when you run pmatvec.exe with 16 cores? How does) Tj T* 0 Tw (that compare to what you had achieved with your laptop?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL -0.097073 Tw (Answer: The max Gflop/s reported when I run pmatvec.exe with 16 cores is 9.97083 Gflop/s for my CSC^T) Tj T* 0 Tw .122209 Tw (with 16 threads with N\(Grid\) = 512. The max Gflop/s reported when I run pmatvec.exe with my own laptop) Tj T* 0 Tw .569988 Tw (when I did ps6 was 13.5018 Gflop/s for my CSC^T with 8 threads with N\(Grid\) = 256. So, my laptop has) Tj T* 0 Tw (achieved a better max Gflop/s result compared to the result when we run on the Hyak cluster.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 207.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (pagerank) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .686457 Tw (Question 5: How much speedup \(ratio of elapsed time for pagerank\) do you get when running on 8) Tj T* 0 Tw (cores?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .339989 Tw (Answer: Elapsed time for pagerank for 1 core is 2609 ms, for 2 cores is 2652 ms, for 4 cores is 1937 ms,) Tj T* 0 Tw .697608 Tw (for 8 cores is 1406 ms. So, compared to running on 1 core, when running on 8 cores we get about 1.86) Tj T* 0 Tw 2.006457 Tw (times speedup; compared to running on 2 cores, when running on 8 cores we get about 1.88 times) Tj T* 0 Tw (speedup; compared to running on 4 cores, when running on 8 cores we get about 1.38 times speedup.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 84.02362 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (cu_axpy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Length 7457
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 765.0236 cm
+Q
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.399985 Tw (Question 6: How many more threads are run in version 2 compared to version 1? How much) Tj T* 0 Tw (speedup might you expect as a result? How much speedup do you see in your plot?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 741.0236 cm
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .889461 Tw (Answer: Only 1 thread is running in version 1, and 256 threads are running in version 2. Version 2 also) Tj T* 0 Tw .290542 Tw (utilized partition so that the madd\(\) function gets to know which thread it is at when running. Compared to) Tj T* 0 Tw .043876 Tw (version 1, version 2 should get around 50 times speedup in the performance. From my plot, version 1 gets) Tj T* 0 Tw 2.089986 Tw (about 0.03 Gflop/s, version 2 gets about 1.62 Gflop/s, so it's about 55 times speedup which fits my) Tj T* 0 Tw (expectation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.399985 Tw (Question 7: How many more threads are run in version 3 compared to version 2? How much) Tj T* 0 Tw 1.204431 Tw (speedup might you expect as a result? How much speedup do you see in your plot? \(Hint: Is the) Tj T* 0 Tw (speedup a function of the number of threads launched or the number of available cores, or both?\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .241751 Tw (Answer: Version 2 and version 3 both are running on 256 threads. Version 3 utilized Blocks. The indexing) Tj T* 0 Tw .93832 Tw (in version 3 also taking into account blocks. The speedup should also be around 50 times for version 3) Tj T* 0 Tw .567209 Tw (compared to version 2. From the plot, version 2 gets about 1.62 Gflop/s, version 3 gets about 70 Gflop/s) Tj T* 0 Tw (\(peak performance\), so it's about 45 times speedup. This fits my expectation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10 Tf 12 TL .701163 Tw (From the plot, when the log problem size increases, the performance of version 3 is dropped and slowly) Tj T* 0 Tw 1.339987 Tw (towards to the performance of version 2. The speedup for version 3 compared to version 2 as the log) Tj T* 0 Tw 1.686412 Tw (problem size inscreases are decreased. This might because when the problem size grows larger and) Tj T* 0 Tw 2.575542 Tw (larger, we need more cores to solve for version 3 and when there is not that many available, the) Tj T* 0 Tw .118735 Tw (performance would slow down gradually. Version 2 and version 3 both using the same number of threads,) Tj T* 0 Tw 1.64811 Tw (we still see about 45 times speedup \(max speedup\). Combining with question 6 version 2 uses more) Tj T* 0 Tw -0.020012 Tw (threads than version 1 and had about 55 times speedup, we can see that the speedup is a function of both) Tj T* 0 Tw .394985 Tw (the number of threads launched and the number of available cores. Both factors can influence how many) Tj T* 0 Tw (speedup we can get.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+10 0 0 10 37.24 2 cm
+/FormXob.b6f77d4eeded7b432395304cf1a6ac36 Do
+Q
+BT 1 0 0 1 0 26 Tm .075984 Tw 12 TL /F1 10 Tf 0 0 0 rg (\(AMATH 583\) Question 8: The cu_axpy_t also accepts as a second command line argument the size) Tj T* 0 Tw 1.287485 Tw (of the blocks to be used. Experiment with different block sizes with, a few different problem sizes) Tj T* 0 Tw (\(around ) Tj 47.24 0 Td ( plus or minus\). What block size seems to give the best performance?) Tj T* -47.24 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Answer: I am from Amath 483.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (nvprof) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+Q
+q
+1 0 0 1 62.69291 360.0236 cm
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.062955 Tw (\(AMATH 583\) Question 9: Looking at some of the metrics reported by nvprof, how do metrics such as) Tj T* 0 Tw (occupancy and efficiency compare to the ratio of threads launched between versions 1, 2, and 3?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Answer: I am from Amath 483.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Striding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .279983 Tw (Question 10: Think about how we do strided partitioning for task-based parallelism \(e.g., OpenMP or) Tj T* 0 Tw .372846 Tw (C++ tasks\) with strided partitioning for GPU. Why is it bad in the former case but good \(if it is\) in the) Tj T* 0 Tw (latter case?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 134 Tm /F1 10 Tf 12 TL .95436 Tw (Answer: When we do strided partitioning for task-based parallelism, the element we try to access is not) Tj T* 0 Tw .985542 Tw (nearby each other in the memory so we don't have the benefit of quick accessing the data that already) Tj T* 0 Tw 1.030542 Tw (stored in the cache, instead we would need to fetch those separated elements every time we try to get) Tj T* 0 Tw 1.476303 Tw (them which can take a lot of time if summed together. This is why the cyclic methods in the previous) Tj T* 0 Tw 4.027976 Tw (assignments \(e.g. cnorm\) presents slower performance compared to the sequential performance.) Tj T* 0 Tw .658935 Tw (However, in this CUDA case, even it seems like we are still using strided partitioning, in a grid which we) Tj T* 0 Tw -0.076328 Tw (stored in the memory, we have blocks stored next to each other. Inside each block, we have the number of) Tj T* 0 Tw .498651 Tw (threads stored inside. So, with this special Grids and blocks logical organization, when we stride partition) Tj T* 0 Tw .685251 Tw (with blocks, the blocks we are trying to access are next to each other in the memory. Each thread loads) Tj T* 0 Tw .342339 Tw (one element from global to shared memory. For this case, we still utilizing the benefits of quick accessing) Tj T* 0 Tw .329036 Tw (the different blocks that already stored in memory. This is why it is bad in the former case but good in the) Tj T* 0 Tw (latter case.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+23 0 obj
+<<
+/Length 1435
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (norm_cuda) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.831751 Tw (Question 11: What is the max number of Gflop/s that you were able to achieve from the GPU?) Tj T* 0 Tw (Overall \(GPU vs CPU\)?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .475542 Tw (Answer: The max number of Gflop/s that I was able to achieve from the GPU was about 55.9241 Gflop/s) Tj T* 0 Tw (with cu_norm_4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .784431 Tw (Overall, the max number of Gflop/s that I was able to achieve from the CPU was about 78.0336 Gflop/s) Tj T* 0 Tw .599987 Tw (with omp_axpy with the number of --cpus-per-task being 8; the max number of Gflop/s that I was able to) Tj T* 0 Tw 2.044198 Tw (achieve from the CPU from the 4 cu_axpy_~ \(~ = 1, 2, 3, t\) cases was about 69.9051 Gflop/s with) Tj T* 0 Tw (cu_axpy_3. So, overall the max number of Gflop/s I achieved was from the CPU with 78.0336 Gflop/s.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+24 0 obj
+<<
+/Nums [ 0 25 0 R 1 26 0 R 2 27 0 R ]
+>>
+endobj
+25 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+26 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+27 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000538 00000 n 
+0000000788 00000 n 
+0000001033 00000 n 
+0000001301 00000 n 
+0000001506 00000 n 
+0000001611 00000 n 
+0000001878 00000 n 
+0000001952 00000 n 
+0000002062 00000 n 
+0000002180 00000 n 
+0000002300 00000 n 
+0000002422 00000 n 
+0000002543 00000 n 
+0000002663 00000 n 
+0000002785 00000 n 
+0000002895 00000 n 
+0000002967 00000 n 
+0000009286 00000 n 
+0000016795 00000 n 
+0000018282 00000 n 
+0000018341 00000 n 
+0000018375 00000 n 
+0000018409 00000 n 
+trailer
+<<
+/ID 
+[<5db8ebb5635ed01d279a025a6352a097><5db8ebb5635ed01d279a025a6352a097>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 28
+>>
+startxref
+18443
+%%EOF
